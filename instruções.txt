@@ -1,0 +1,8 @@
+@chakra-ui/react -> integração do chakra ui com o react
+@chakra-ui/core -> coração do chakra ui
+@emotion/react -> biblioteca de css que o chakra ui usa por baixo dos panos integração com react
+@emotion/styled -> estilos do emotion
+framer-motion -> para fazer as animações
+apexcharts -> biblioteca de graficos
+react-apexcharts -> integração com o react
+react-query -> para melhorar a experiencia de desempenho com requisições (guardar no cache)
